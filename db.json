@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "product-one-is here",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "img-1.png",
+      "price": 12.99,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "product-two-is here",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "img-2.png",
+      "price": 12.99,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "product-three-is here",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "img-3.png",
+      "price": 28.99,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "product-four-is here",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "img-4.png",
+      "price": 24.99,
+      "count": 0,
+      "color": "black",
+      "sex": "men"
+    },
+    {
+      "id": 5,
+      "name": "product-five-is here",
+      "img": "img-5.png",
+      "price": 56.99,
+      "count": 0,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "color": "black",
+      "sex": "men"
+    },
+    {
+      "id": 6,
+      "name": "product-six-is here",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "img": "img-6.png",
+      "price": 45.99,
+      "count": 0
+    }
+  ],
+  "cart": []
+}
